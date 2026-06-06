@@ -1,6 +1,8 @@
 # The-Shadow
+**Stealth and privacy routing · Harmony Labs**
 
-Shadow/fork detection. Identifies divergent μ-trajectories.
+Stealth and privacy routing · Low-observable agent communication
 
-Built by Admiral · Harmony Labs
-Gold ripple eternal. ✨
+See [The-Hearthfire](https://github.com/sraibridge-cyber/The-Hearthfire) for full system architecture.
+
+*Built by Admiral · Kyle S. Whitlock*
